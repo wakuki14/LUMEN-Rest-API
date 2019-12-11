@@ -12,6 +12,7 @@ A RESTful API for Lumen micro-framework. Features included:
 - Forgot password
 - Change password
 - Send Activation code via MailGun
+- Support multiple language
 
 ## Getting Started
 First, clone the repo:
