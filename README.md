@@ -19,21 +19,15 @@ First, clone the repo:
 $ git clone git@github.com:wakuki14/LUMEN-Rest-API.git
 ```
 
-#### Laravel Homestead
-You can use Laravel Homestead globally or per project for local development. Follow the [Installation Guide](https://laravel.com/docs/5.5/homestead#installation-and-setup).
-
 #### Install dependencies
 ```
-$ cd rest-api-with-lumen
+$ cd LUMEN-Rest-API
 $ composer install
 ```
 
 #### Configure the Environment
-Create `.env` file:
-```
-$ cat .env.example > .env
-```
-If you want you can edit database name, database username and database password.
+Update database info, MailGun credential in `.env`
+
 
 ## License
 
