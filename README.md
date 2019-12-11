@@ -16,7 +16,7 @@ A RESTful API for Lumen micro-framework. Features included:
 ## Getting Started
 First, clone the repo:
 ```bash
-$ git clone git@github.com:hasib32/rest-api-with-lumen.git
+$ git clone git@github.com:wakuki14/LUMEN-Rest-API.git
 ```
 
 #### Laravel Homestead
