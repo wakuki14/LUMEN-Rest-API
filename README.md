@@ -24,6 +24,10 @@ $ git clone git@github.com:wakuki14/LUMEN-Rest-API.git
 $ cd LUMEN-Rest-API
 $ composer install
 ```
+#### Intialize database
+```
+php artisan migrate
+```
 
 #### Configure the Environment
 Update database info, MailGun credential in `.env`
