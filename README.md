@@ -25,7 +25,7 @@ $ git clone git@github.com:wakuki14/LUMEN-Rest-API.git
 $ cd LUMEN-Rest-API
 $ composer install
 ```
-#### Intialize database
+#### Initialize database
 ```
 php artisan migrate
 ```
