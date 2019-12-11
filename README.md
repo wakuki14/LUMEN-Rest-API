@@ -13,7 +13,7 @@ A RESTful API for Lumen micro-framework. Features included:
 - Change password
 - Send Activation code via MailGun
 - Support multiple language
-- Social Login: Google, 
+- Social Login: Google, Facebook 
 
 ## Getting Started
 First, clone the repo:
